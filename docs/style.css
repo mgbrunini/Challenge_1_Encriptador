@@ -116,3 +116,10 @@ p{
 h3{
   text-align: center;
 }
+
+#imgYt{
+  float: right;
+  margin-right: 5%;
+  width: 10%;
+  height: 10%;
+}
